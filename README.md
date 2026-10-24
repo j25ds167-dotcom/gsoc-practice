@@ -1,3 +1,3 @@
-# GSoC Practice
+## Goal
 
-I am learning Git, GitHub, and open-source contribution.
+I am preparing to contribute to open source through Google Summer of Code.
